@@ -1,0 +1,5 @@
+
+<svg class = "background">
+  <image href = "road.png" id = "groundBack" />
+  <text id="myLabel" />
+</svg>
