@@ -1,0 +1,22 @@
+{
+  "fitbit": {
+    "appUUID": "7253026d-54aa-4da7-9d0f-d11bb508781f",
+    "appType": "clockface",
+    "appDisplayName": "AJ Test",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "AJ Test"
+      }
+    }
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~2.0.0"
+  }
+}
